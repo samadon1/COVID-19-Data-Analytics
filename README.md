@@ -9,12 +9,13 @@ As of January 2020, over 3.5 million people and counting have died from the COVI
 The business task requires that I find the best way to help prevent and slow down transmission of the disease.
 
 What is the Problem type (Making predictions, categorizing things, spotting something unusual, identifying themes, discovering connections, finding patterns)
-### •	Asking SMART questions
+#### •	Asking SMART questions
 What is the mortality risk of COVID-19 – the likelihood that someone who is infected with the disease will die from it?
 Does the disease affect certain demographics more than others? If so, which people are more likely to get severely ill and die from the disease?
 What percentage of a country’s population is infected with Covid-19?
 
-### Hypothesis: COVID-19 cases are increasing and people with pre-existing conditions are most at risk of death.
+#### Hypothesis 
+COVID-19 cases are increasing and people with pre-existing conditions are most at risk of death.
 Why? Why? Why?
 
 ## Prepare Phase
