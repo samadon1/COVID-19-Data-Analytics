@@ -14,17 +14,17 @@ What is the mortality risk of COVID-19 – the likelihood that someone who is in
 Does the disease affect certain demographics more than others? If so, which people are more likely to get severely ill and die from the disease?
 What percentage of a country’s population is infected with Covid-19?
 
-Hypothesis: COVID-19 cases are increasing and people with pre-existing conditions are most at risk of death.
+### Hypothesis: COVID-19 cases are increasing and people with pre-existing conditions are most at risk of death.
 Why? Why? Why?
 
-Prepare Phase
+## Prepare Phase
 COVID-19 Deaths (made available by Our World in Data under Creative Commons license): Cumulative confirmed COVID-19 deaths and cases by country.
 The data is in long format.
 
-Process Phase
+## Process Phase
 Documentation of any cleaning or manipulation of data
 
 
-Analyze Phase
+## Analyze Phase
 
-Share Phase
+## Share Phase
