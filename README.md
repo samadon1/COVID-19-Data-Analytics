@@ -12,10 +12,12 @@ What is the Problem type (Making predictions, categorizing things, spotting some
 #### Asking SMART questions
 What is the mortality risk of COVID-19 – the likelihood that someone who is infected with the disease will die from it?
 Does the disease affect certain demographics more than others? If so, which people are more likely to get severely ill and die from the disease?
+
 What percentage of a country’s population is infected with Covid-19?
 
 #### Hypothesis 
 COVID-19 cases are increasing and people with pre-existing conditions are most at risk of death.
+
 Why? Why? Why?
 
 ## Prepare Phase
