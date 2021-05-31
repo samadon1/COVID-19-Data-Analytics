@@ -184,3 +184,4 @@ where dea.continent is not null
 `````
 
 ## Share Phase
+https://github.com/samadon1/COVID-19-Data-Analytics/blob/main/Dashboard%201.png
