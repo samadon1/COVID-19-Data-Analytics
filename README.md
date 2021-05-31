@@ -22,7 +22,10 @@ COVID-19 Deaths (made available by Our World in Data under Creative Commons lice
 The data is in long format.
 
 ## Process Phase
-Documentation of any cleaning or manipulation of data
+• I cast the number of deaths and date fields to numbers
+
+
+## Analyze Phase
 
 ````
 Select *
@@ -177,11 +180,6 @@ Join PortfolioProject..CovidVaccinations vac
 	On dea.location = vac.location
 	and dea.date = vac.date
 where dea.continent is not null 
-
-
 `````
-
-
-## Analyze Phase
 
 ## Share Phase
