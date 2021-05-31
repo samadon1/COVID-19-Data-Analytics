@@ -23,14 +23,14 @@ The data is in long format.
 
 ## Process Phase
 Documentation of any cleaning or manipulation of data
-```
-```diff
+
+diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-```
+
 
 Select *
 From PortfolioProject..CovidDeaths
