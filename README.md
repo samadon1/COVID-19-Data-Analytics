@@ -24,8 +24,15 @@ The data is in long format.
 ## Process Phase
 Documentation of any cleaning or manipulation of data
 ```
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?Select=+) `#f03c15`
- *
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+Select *
 From PortfolioProject..CovidDeaths
 Where continent is not null 
 order by 3,4
